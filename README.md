@@ -1,4 +1,4 @@
-# Eyes-State-Prediction
+# EEG-SIGNAL-BASED-EYE-STATE-CLASSIFICATION
 
 Developed a machine learning model to enable Assisted driving by giving alerts, in case a driver falls asleep while driving. The model was developed, by using the EEG signals dataset, to predict the state of the eyes I.e whether they are open or closed 
 
